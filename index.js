@@ -23,7 +23,7 @@ function sayHiToGrandma(String){
     return "YES INDEED!"
     }
   if (String === "I love you, Grandma.") {
-    "I love you, too.";
+    return "I love you, too.";
  }
  }
 
